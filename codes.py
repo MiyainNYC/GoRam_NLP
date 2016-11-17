@@ -12,7 +12,7 @@ class Go_Ram():
 
     def get_data(self):
         
-        print(sys.version_info)
+        print(sys.version_info) ### Make sure you are using Python3
         
         dict_data = {}
         country_list = []
